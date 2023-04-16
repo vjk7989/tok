@@ -1,0 +1,14 @@
+{
+    "name": "ALLCHUM",
+    "symbol": "TAC",
+    "uri": "https://mytoken.com/metadata.json",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {
+            "address": "Gy5oaTpM6tkc9aj4BZkjMXHaWm2U16CsfBtL4jBMKztX",
+            "verified": true,
+            "share": 100
+        }
+        
+    ]
+}
